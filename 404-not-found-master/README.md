@@ -1,4 +1,4 @@
-<h1 align="center">{DevChallenges - 404 Not Found}</h1>
+<h1 align="center">DevChallenges - 404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -53,8 +53,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-- [Acedemind's 100 days of code - Web development Bootcamp](https://100daysofwebdevelopment.com/)
-- [Academind's guide on HTML & CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+- [100 Days of Code - Web Development Bootcamp](https://100daysofwebdevelopment.com/)
+- [CSS - The Complete GUide 2022](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 
 ## Contact
