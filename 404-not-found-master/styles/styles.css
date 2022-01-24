@@ -50,7 +50,6 @@ section {
 	display: flex;
 	justify-content: space-evenly;
 	font-family: "Space Mono", sans-serif;
-	margin-bottom: 100px;
 }
 
 .img-container {
